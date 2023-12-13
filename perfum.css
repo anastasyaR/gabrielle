@@ -55,15 +55,13 @@ flex-direction: row; /* Ensures children are laid out horizontally */
 }
 
 .thead {
-  background-color: white;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  flex-basis: 50%;
-  flex-grow: 1;
-  flex-shrink: 1;
-  border-radius: 10px;
-  align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 50%;
+    flex-grow: 1;
+    flex-shrink: 1;
 
 
 }

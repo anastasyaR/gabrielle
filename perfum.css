@@ -1,1 +1,11 @@
+h1 {
+color: black; 
+font-family: 'Fraunces', serif;
+}
 
+
+p {
+color: hsl(228, 12%, 48%);
+font-family: 'EB Garamond', serif;
+
+}

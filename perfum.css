@@ -88,6 +88,17 @@ text-align: left;
 
 }
 
+.pricing {
+
+display: flex;     /* This line is crucial */
+flex-direction: row; /* Ensures children are laid out horizontally */
+
+
+
+
+
+}
+
 button {
 background-color: hsl(158, 36%, 37%);
 color: white;

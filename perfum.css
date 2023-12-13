@@ -25,8 +25,11 @@ height: 100vh; /* Sets the height of the body to full viewport height */
 }
 
 .mainthing{
-    display: flex;
-    width: 100%;
+ width: 60%;   /* Adjust as needed */
+height: 70%;  /* Adjust as needed */
+/* Keep the flex properties as is */
+ margin: auto; /* Optional, helps in centering if the flex on body doesn't work as expected */
+/* Add other styles like border, shadow, etc., if desired */
 
 }
 

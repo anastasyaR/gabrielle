@@ -46,9 +46,12 @@ flex-direction: row; /* Ensures children are laid out horizontally */
 }
 
 .image {
-flex-basis: 50%;
-flex-grow: 1; /* Allows the section to grow */
-flex-shrink: 1; /* Allows the section to shrink */
+    flex-basis: 50%;
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: hidden; /* This ensures the content doesn't exceed the div */
+    /* Other styles */
+}
 
 
 }

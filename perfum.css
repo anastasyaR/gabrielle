@@ -49,8 +49,6 @@ flex-direction: row; /* Ensures children are laid out horizontally */
     flex-basis: 50%;
     flex-grow: 1;
     flex-shrink: 1;
-    overflow: hidden; /* This ensures the content doesn't exceed the div */
-    /* Other styles */
 }
 
 

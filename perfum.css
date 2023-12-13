@@ -38,8 +38,8 @@ width: 20px;
     display: flex;     /* This line is crucial */
     flex-direction: row; /* Ensures children are laid out horizontally */
     border-sizing: border-box;
-    width: 50vw; /* Example: 50% of the viewport width */
-    height: 30vh; /* Example: 30% of the viewport height */
+    width: 20vw; /* Example: 50% of the viewport width */
+    height: 50vh; /* Example: 30% of the viewport height */
 
 
 

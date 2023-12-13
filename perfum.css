@@ -46,7 +46,6 @@ border-radius: 10px;
 }
 
 .image {
-height: 50%;
 flex-basis: 50%;
 flex-grow: 1; /* Allows the section to grow */
 flex-shrink: 1; /* Allows the section to shrink */
@@ -65,10 +64,6 @@ flex-shrink: 1; /* Allows the section to shrink */
 
 }
 
-.image, .thead {
-flex: 1; 
-
-}
 
 .price {
 color: hsl(158, 36%, 37%);

@@ -79,6 +79,8 @@ font-family: "Lucida Sans Typewriter", monospace;
 button {
 background-color: hsl(158, 36%, 37%);
 color: white;
+text-align: center;
+font-weight: bold;
 
 
 }

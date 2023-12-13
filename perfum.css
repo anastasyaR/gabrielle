@@ -51,17 +51,17 @@ flex-direction: row; /* Ensures children are laid out horizontally */
 }
 
 .thead {
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+background-color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
 
 
 
 }
 
 .image, .thead {
-    flex: 1; 
+flex: 1; 
 
 }
 
@@ -81,6 +81,7 @@ letter-spacing: 2px;
 color: hsl(228, 12%, 48%);
 font-family: "Lucida Sans Typewriter", monospace;
 font-size: 12px;
+text-align: left; 
 
 
 

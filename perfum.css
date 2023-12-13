@@ -97,8 +97,7 @@ height: auto;
 
 .pricing {
 
-display: flex;     /* This line is crucial */
-flex-direction: row; /* Ensures children are laid out horizontally */
+display: inline-flex;
 align-items: center;
 
 

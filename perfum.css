@@ -41,6 +41,7 @@ margin: auto; /* Optional, helps in centering if the flex on body doesn't work a
 /* Add other styles like border, shadow, etc., if desired */
 display: flex;     /* This line is crucial */
 flex-direction: row; /* Ensures children are laid out horizontally */
+border-radius: 10px;
 
 
 }

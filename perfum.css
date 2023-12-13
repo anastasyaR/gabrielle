@@ -34,7 +34,7 @@ width: 20px;
 
 .mainthing{
 width: 70%;   /* Adjust as needed */
-height: 60%;  /* Adjust as needed */
+height: 80%;  /* Adjust as needed */
 /* Keep the flex properties as is */
 margin: auto; /* Optional, helps in centering if the flex on body doesn't work as expected */
 /* Add other styles like border, shadow, etc., if desired */

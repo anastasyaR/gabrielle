@@ -11,6 +11,14 @@ font-size: 14px;
 
 }
 
+.background {
+
+background-color: hsl(30, 38%, 92%);
+
+
+
+}
+
 .mainthing{
     display: flex;
     width: 100%;
@@ -42,6 +50,12 @@ font-size: 14px;
 
 .price {
 color: hsl(158, 36%, 37%);
+
+}
+
+.formerprice {
+text-decoration: line-through;
+
 
 }
 

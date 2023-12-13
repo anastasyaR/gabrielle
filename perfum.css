@@ -47,6 +47,9 @@ border-radius: 10px;
 
 .image {
 height: 50%;
+flex-basis: 50%;
+flex-grow: 1; /* Allows the section to grow */
+flex-shrink: 1; /* Allows the section to shrink */
 
 }
 
@@ -55,7 +58,9 @@ background-color: white;
 display: flex;
 flex-direction: column;
 justify-content: center;
-
+flex-basis: 50%;
+flex-grow: 1; /* Allows the section to grow */
+flex-shrink: 1; /* Allows the section to shrink */
 
 
 }

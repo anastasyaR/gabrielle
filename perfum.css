@@ -93,7 +93,8 @@ color: white;
 text-align: center;
 font-weight: bold;
 border-radius: 30px; 
-padding: 10px 20px;
+padding: 30px 70px;
+border-color: hsl(158, 36%, 37%);
 
 
 }

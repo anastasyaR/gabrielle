@@ -47,7 +47,7 @@ width: 20px;
 .image {
     flex-basis: 50%;
     flex-grow: 1;
-    flex-shrink: 1;
+    flex-shrink: 3;
     display: flex;
 }
 
@@ -59,7 +59,7 @@ width: 20px;
     justify-content: center;
     flex-basis: 50%;
     flex-grow: 1;
-    flex-shrink: 1;
+    flex-shrink: 3;
 
 
 }

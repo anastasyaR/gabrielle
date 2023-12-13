@@ -97,9 +97,7 @@ text-align: center;
 .bottle {
 width: 100%;
 height: auto;
-display: block; /* This removes any extra space below the image */
-margin: 0; /* Reset default margin */
-padding: 0; /* Reset default padding */
+
 }
 
 .pricing {

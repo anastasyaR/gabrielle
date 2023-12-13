@@ -67,6 +67,7 @@ width: 20px;
 
 .image, .thead {
   border: 1px solid red; /* Temporary for debugging */
+  flex: 1; 
 }
 
 .price {

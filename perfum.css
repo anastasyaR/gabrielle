@@ -70,6 +70,7 @@ flex-shrink: 1; /* Allows the section to shrink */
 
 .price {
 color: hsl(158, 36%, 37%);
+margin-right: 20px;
 
 }
 

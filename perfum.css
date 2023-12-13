@@ -1,7 +1,7 @@
 h1 {
 color: black; 
 font-family: 'Fraunces', serif;
-text-align: left;
+text-align: center;
 }
 
 
@@ -9,7 +9,7 @@ p {
 color: hsl(228, 12%, 48%);
 font-family: 'Montserrat';
 font-size: 14px;
-text-align: left;
+text-align: center;
 
 }
 
@@ -83,7 +83,7 @@ letter-spacing: 2px;
 color: hsl(228, 12%, 48%);
 font-family: "Lucida Sans Typewriter", monospace;
 font-size: 12px;
-text-align: left; 
+text-align: center; 
 
 }
 

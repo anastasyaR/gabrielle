@@ -11,9 +11,32 @@ font-size: 14px;
 
 }
 
-div.container.pale {
-background-color: white;
+.mainthing{
+    display: flex;
+    width: 100%;
 
+}
+
+.image {
+    width: 100%;
+    height: auto;
+
+}
+
+.thead {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+
+}
+
+.image, .thead {
+    flex: 1; 
 
 }
 

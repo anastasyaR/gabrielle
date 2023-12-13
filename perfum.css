@@ -51,7 +51,6 @@ flex-direction: row; /* Ensures children are laid out horizontally */
 
 .thead {
     background-color: white;
-    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;

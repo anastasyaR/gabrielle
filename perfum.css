@@ -23,7 +23,8 @@ color: hsl(158, 36%, 37%);
 }
 
 button {
-color: hsl(158, 36%, 37%);
+background-color: hsl(158, 36%, 37%);
+color: white;
 
 
 }

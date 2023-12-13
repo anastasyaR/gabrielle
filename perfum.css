@@ -67,6 +67,9 @@ flex-shrink: 1; /* Allows the section to shrink */
 
 }
 
+.image, .thead {
+  border: 1px solid red; /* Temporary for debugging */
+}
 
 .price {
 color: hsl(158, 36%, 37%);

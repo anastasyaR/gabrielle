@@ -46,7 +46,7 @@ flex-direction: row; /* Ensures children are laid out horizontally */
 }
 
 .image {
-    height: auto;
+    height: 50%;
 
 }
 

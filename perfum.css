@@ -8,7 +8,7 @@ text-align: center;
 p {
 color: hsl(228, 12%, 48%);
 font-family: 'Montserrat';
-font-size: 14px;
+font-size: 0.875rem;
 text-align: center;
 
 }
@@ -75,17 +75,17 @@ text-align: center;
 }
 
 .formerprice {
-margin-top: 10px;
+margin-top: 62%;
 text-align: center; 
 
 
 }
 
 .perfume {
-letter-spacing: 4px;
+letter-spacing: 25%;
 color: lightgray;
 font-family: 'Montserrat', sans-serif;
-font-size: 12px;
+font-size: 0.75rem;
 text-align: center; 
 text-transform: uppercase;
 
@@ -109,12 +109,12 @@ background-color: hsl(158, 36%, 37%);
 color: white;
 text-align: center;
 font-weight: bold;
-border-radius: 20px; 
+border-radius: 125%; 
 padding: 20px 5px;
 border-color: hsl(158, 36%, 37%);
 font-family: 'Montserrat';
-font-size: 20px;
-line-height: 5px;
+font-size: 1.25rem;
+line-height: 31.25%;
 
 
 }
